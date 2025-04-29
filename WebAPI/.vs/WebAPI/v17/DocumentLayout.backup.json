@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Desktop\\Projects\\Candidate\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FD2999-480D-4E2F-83D0-22BD0CA610BB}|WebAPI\\WebAPI.csproj|c:\\users\\prasa\\desktop\\projects\\candidate\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FD2999-480D-4E2F-83D0-22BD0CA610BB}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FD2999-480D-4E2F-83D0-22BD0CA610BB}|WebAPI\\WebAPI.csproj|c:\\users\\prasa\\desktop\\projects\\candidate\\webapi\\webapi\\models\\dcandidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FD2999-480D-4E2F-83D0-22BD0CA610BB}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dcandidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Desktop\\Projects\\Candidate\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\Desktop\\Projects\\Candidate\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:26:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DCandidateCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Desktop\\Projects\\Candidate\\WebAPI\\WebAPI\\Models\\DCandidateCreateDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DCandidateCreateDTO.cs",
+              "ToolTip": "C:\\Users\\prasa\\Desktop\\Projects\\Candidate\\WebAPI\\WebAPI\\Models\\DCandidateCreateDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DCandidateCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:21:13.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
