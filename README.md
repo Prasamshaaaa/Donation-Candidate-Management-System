@@ -49,8 +49,7 @@ A full-stack application for managing blood donation candidates with React front
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/donation-candidate-system.git
-   cd donation-candidate-system
+   git clone https://github.com/Prasamshaaaa/Donation-Candidate-Management-System.git
 
 
 
